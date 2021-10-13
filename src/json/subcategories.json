@@ -1,0 +1,128 @@
+[
+    {
+        "parent_id": 1,
+        "id": 1,
+        "name": "Автомобили",
+        "flags": "cars"
+    },
+    {
+        "parent_id": 1,
+        "id": 2,
+        "name": "Мотоциклы и мототехника",
+        "flags": "motorcycles"
+    },
+    {
+        "parent_id": 1,
+        "id": 3,
+        "name": "Грузовики и спецтехника",
+        "flags": "transport"
+    },
+    {
+        "parent_id": 1,
+        "id": 4,
+        "name": "Водный транспорт",
+        "flags": "transport"
+    },
+    {
+        "parent_id": 1,
+        "id": 5,
+        "name": "Запчасти и аксессуары",
+        "flags": "realestate"
+    },
+    {
+        "parent_id": 2,
+        "id": 1,
+        "name": "Квартиры в новостройках",
+        "flags": "apartments"
+    },
+    {
+        "parent_id": 2,
+        "id": 2,
+        "name": "Квартиры в аренду",
+        "flags": "rent"
+    },
+    {
+        "parent_id": 2,
+        "id": 3,
+        "name": "Квартиры посуточно",
+        "flags": "bytheday"
+    },
+    {
+        "parent_id": 2,
+        "id": 4,
+        "name": "Отели",
+        "flags": "hotels"
+    },
+    {
+        "parent_id": 2,
+        "id": 5,
+        "name": "Дома, дачи, коттеджи",
+        "flags": "cottages"
+    },
+    {
+        "parent_id": 3,
+        "id": 1,
+        "name": "Вакансии",
+        "flags": "vacancies"
+    },
+    {
+        "parent_id": 3,
+        "id": 2,
+        "name": "Резюме",
+        "flags": "summary"
+    },
+    {
+        "parent_id": 4,
+        "id": 1,
+        "name": "Аудио и видео",
+        "flags": "audiovideo"
+    },
+    {
+        "parent_id": 4,
+        "id": 2,
+        "name": "Игры, приставки и программы",
+        "flags": "game"
+    },
+    {
+        "parent_id": 4,
+        "id": 3,
+        "name": "Настольные компьютеры",
+        "flags": "pc"
+    },
+    {
+        "parent_id": 4,
+        "id": 4,
+        "name": "Ноутбуки",
+        "flags": "notebook"
+    },
+    {
+        "parent_id": 4,
+        "id": 5,
+        "name": "Телефоны",
+        "flags": "phone"
+    },
+    {
+        "parent_id": 5,
+        "id": 1,
+        "name": "Велосипеды",
+        "flags": "bicycles"
+    },
+    {
+        "parent_id": 5,
+        "id": 2,
+        "name": "Книги",
+        "flags": "books"
+    },
+    {
+        "parent_id": 5,
+        "id": 3,
+        "name": "Музыкаоьные инструменты",
+        "flags": "music"
+    },
+    {
+        "parent_id": 5,
+        "id": 4,
+        "name": "Спорт",
+        "flags": "sport"
+    }
+]

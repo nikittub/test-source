@@ -1,15 +1,15 @@
-import React, { Component } from "react";
-
+import React from "react";
 import '../styles/App.css';
+import Select from './select';
+import Multiselect from './multiselect';
 
-class App extends Component {
-    render() {
-        return (
-            <div>
-                <h1>My React App!</h1>
-            </div>
-        );
-    }
+function App() {
+    return(
+        <div className='wrapper'>
+            <Select />
+            <Multiselect />
+        </div>
+    );
 }
 
 export default App;

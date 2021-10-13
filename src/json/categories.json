@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Транспорт",
+        "flags": "transport"
+    },
+    {
+        "id": 2,
+        "name": "Недвижимость",
+        "flags": "realestate"
+    },
+    {
+        "id": 3,
+        "name": "Работа",
+        "flags": "work"
+    },
+    {
+        "id": 4,
+        "name": "Электроника",
+        "flags": "electronics"
+    },
+    {
+        "id": 5,
+        "name": "Хобби и отдых",
+        "flags": "hobbies"
+    }
+    ]
